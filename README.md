@@ -1,12 +1,14 @@
 # NBA_Final-Project
 
-Using the 2014-15 NBA shot log data set and player stats excel files
+## Project Goal
 
-# Resources
+Our initial goal is to see if there is any correlation betwen shot output success and distance it was done plus any other metrics. 
+
+## Resources
 Data Source: [Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats-20142015)
 
 ----------
-# Team Responsibilties:
+## Team Responsibilties:
 
 **Devin** - leader
 
