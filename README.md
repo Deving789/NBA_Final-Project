@@ -28,7 +28,7 @@ Data Source: [Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats-2014201
 
 **Devin** - leader
 
-**Brian** - contributor
+**Brian** - contributor (circle)
 
-**Larysa** - contributor
+**Larysa** - contributor (triangle)
 
