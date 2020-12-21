@@ -57,15 +57,15 @@ Team presents a provisional database that stands in for the final database and a
 
 The team looked at the correlation between all columns we have in the dataset. More details is in the [main branch](https://github.com/Deving789/NBA_Final-Project). 
 
-* players_stats.csv
+* [players_stats.csv](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Resources/players_stats.csv)
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_correlation_matrix.PNG)
 
-shot_log.csv
+[shot_log.csv](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Resources/shot_logs.csv)
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/shot_log_correlation_matrix.PNG)
 
-More fun stats:
+#### More fun stats:
 
 **Players' age stats in 2014-15 season**
 
@@ -76,6 +76,7 @@ More fun stats:
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_height_check.PNG)
 
 **Players' experience stats in 2014-15 season**
+
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_experience_check.PNG)
 
 
