@@ -69,15 +69,15 @@ The team looked at the correlation between all columns we have in the dataset. M
 
 #### More fun stats:
 
-**Players' age stats in 2014-15 season**
+**Players' age stats (2014-15 season)**
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_age_check.PNG)
 
-**Players' height stats in 2014-15 season**
+**Players' height stats (2014-15 season)**
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_height_check.PNG)
 
-**Players' experience stats in 2014-15 season**
+**Players' experience stats (2014-15 season)**
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_experience_check.PNG)
 
