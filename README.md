@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Our team is working on analyzing the NBA data from 2014-15 season that has shot-log details. This dataset was posted on [Kaggle.com](https://www.kaggle.com/dansbecker/nba-shot-logs) and contains a record of every shot by every player in every game of the 2014-15 season.
+Our team is working on analyzing the NBA data from 2014-15 season. The main dataset we use was posted on [Kaggle.com](https://www.kaggle.com/dansbecker/nba-shot-logs) and it contains a record of every shot by every player in every game of the 2014-15 season.
 
 ### Part 1 Submission Rubric
 
