@@ -11,11 +11,11 @@ See [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/main). The
 
 ✓ Selected topic
 
-✓ Reason why we selected their topic 
+✓ Provided reasons why we selected this topic 
 
-✓ Description of our source of data 
+✓ Provided description of our source of data 
 
-✓ Questions we hope to answer with the data
+✓ Provided questions we hope to answer with the data
 
 --------
 
@@ -34,19 +34,23 @@ The team has a Github repository dedicated to the final project.
 -----
 #### 3. Machine Learning Model
 
-Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+Team presents a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
 
 ✓ Takes in data in from the provisional database (upload csv to python)
 
 ✓ Outputs label(s) for input data (create dataframe(s))
 
+The team also has [simple machine learning model](https://github.com/Deving789/NBA_Final-Project/blob/main/Resampling.ipynb)
+
 -------
 #### 4. Database
 
-Team members present a provisional database that stands in for the final database and accomplishes the following:
+Team presents a provisional database that stands in for the final database and accomplishes the following:
 
 ✓ Sample data that mimics the expected final database structure or schema 
 
 ✓ Draft machine learning module is connected to the provisional database
+
+
 
 
