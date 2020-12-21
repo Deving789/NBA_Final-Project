@@ -1,11 +1,7 @@
 # NBA_Final-Project
-2
-​
-3
+
 ## Project Goal
-4
-​
-5
+
 Our goal is to detremie if there is any correlation betwen shot output success and distance of the shot, if there is one, Adtionally, we would like to determine if there is a correlation based on advanced team and player metrics, which looks at team records, plate effienciy offensiely as well as the player effienency defenslvely. We selected this topic because we wanted to see what the potenial outcomes are based on theis data and the correlations that exist. Furtermore, we feel that based on this data we can predict how certain players can performa based on the spcae they can create from their nerast defender based on defender height and defender distance.
 6
 
