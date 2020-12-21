@@ -51,9 +51,9 @@ Team presents a provisional database that stands in for the final database and a
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/ERD_snapshot.PNG)
 
-## Data Observations
+## Iniatial Data Observations
 
-The team looked at the correlation between all columns we have in the dataset. More details in the [main branch](https://github.com/Deving789/NBA_Final-Project). 
+The team looked at the correlation between all columns we have in the dataset. More details is in the [main branch](https://github.com/Deving789/NBA_Final-Project). 
 
 ![players_stats](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_correlation_matrix.PNG)
 
