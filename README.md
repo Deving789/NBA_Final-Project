@@ -34,13 +34,11 @@ The team has a Github repository dedicated to the final project.
 -----
 #### 3. Machine Learning Model
 
-Team presents a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+The team presents a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
 
 ✓ Takes in data in from the provisional database (upload csv to python)
 
 ✓ Outputs label(s) for input data (create dataframe(s))
-
-The team also has [simple machine learning model]
 
 -------
 #### 4. Database
@@ -52,6 +50,18 @@ Team presents a provisional database that stands in for the final database and a
 ✓ [Draft machine learning](https://github.com/Deving789/NBA_Final-Project/blob/main/Resampling.ipynb) module is connected to the provisional database
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/ERD_snapshot.PNG)
+
+## Data Observations
+
+The team looked at the correlation between all columns we have in the dataset.
+
+![players_stats](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_correlation_matrix.PNG)
+
+![shot_log](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/shot_log_correlation_matrix.PNG)
+
+
+
+
 
 
 
