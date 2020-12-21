@@ -45,9 +45,9 @@ The team presents a provisional machine learning model that stands in for the fi
 
 Team presents a provisional database that stands in for the final database and accomplishes the following:
 
-✓ Sample data that mimics the expected final database structure or schema 
-
 ✓ [Draft machine learning](https://github.com/Deving789/NBA_Final-Project/blob/main/Resampling.ipynb) module is connected to the provisional database
+
+✓ Sample data that mimics the expected final database structure or schema 
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/ERD_snapshot.PNG)
 
