@@ -24,7 +24,7 @@ Dataset that with 2014-15 NBA shot log data and player stats.
 Data Source: [Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats-20142015)
 
 ----------
-## Team Responsibilties:
+## Team Responsibilties
 
 **Devin** - leader
 
