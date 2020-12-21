@@ -24,11 +24,11 @@ Dataset that with 2014-15 NBA shot log data and player stats.
 
 Data Source: [Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats-20142015)
 
-- shot_logs.csv
+- [shot_logs.csv](https://github.com/Deving789/NBA_Final-Project/blob/main/shot_logs.csv)
 
-- players_stats.csv
+- [players_stats.csv](https://github.com/Deving789/NBA_Final-Project/blob/main/players_stats.csv)
 
-- nba_team_advanced_stats.csv
+- [nba_team_advanced_stats.csv](https://github.com/Deving789/NBA_Final-Project/blob/main/nba_team_advanced_stats.csv)
 
 ----------
 ## Team Responsibilties
