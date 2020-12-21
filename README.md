@@ -7,7 +7,7 @@ Our team is working on analyzing the NBA data from 2014-15 season. The main data
 ### Part 1 Submission Rubric
 
 #### 1. Presentation: 
-See [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/main). The team drafted the project, including the following:
+See also the [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/main). The team drafted the project, including the following:
 
 ✓ Selected topic
 
