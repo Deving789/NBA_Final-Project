@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-Our goal is to determine if there is any correlation between with our features(SHOT_DIST,CLOSE_DEF_DIST,Height(CD)..) selected and whether the player is successful or not making the basket(SHOT_RESULT). If there is a correlation we would like to see what other features have a strong correlation to the shot_result output such as player heights and advanced player metrics and if there are negative correlations with the basket being made with defender heights and how close the defender is to the player taking the shot. We selected this topic because we want to see what the potenial outcomes are based on the data we have chosen. Furthermore, we feel that based on this data we can predict how certain players will perform by the spacing they create from the nearest defender.
+Our goal is to determine if there is any correlation between with our features(SHOT_DIST,CLOSE_DEF_DIST,Height(CD)..) selected and if the player is successful or not making the basket(SHOT_RESULT). If there is a correlation we would like to see what other features from different data not in our current set have a strong correlation to the shot_result output such as advanced player metrics. We selected this topic because we want to see what the potenial outcomes are based on the data we have chosen. Furthermore, we feel that based on this data we can predict how certain players will perform by the spacing they create from the nearest defender.
 
 
 ## Questions we want to answer
