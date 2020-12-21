@@ -38,6 +38,8 @@ The team presents a provisional machine learning model that stands in for the fi
 
 ✓ Takes in data in from the provisional database (upload csv to python)
 
+![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/file_upload_to_python.PNG)
+
 ✓ Outputs label(s) for input data (create dataframe(s))
 
 -------
