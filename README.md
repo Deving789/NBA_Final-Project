@@ -7,26 +7,23 @@ Our team is working on analyzing the NBA data from 2014-15 season that has shot-
 ### Part 1 Submission Rubric
 
 #### 1. Presentation: 
-
 See [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/main). The team drafted the project, including the following:
 
 ✓ Selected topic
 
-✓ Reason why they selected their topic 
+✓ Reason why we selected their topic 
 
-✓ Description of their source of data 
+✓ Description of our source of data 
 
-✓ Questions they hope to answer with the data
+✓ Questions we hope to answer with the data
 
 --------
 
 #### 2. Github
 
-The team has gothub repository dedicated to the final project.
+The team has a Github repository dedicated to the final project.
 
-***Master Branch:***
-
-✓ Includes a README.md that must include: Description of the communication protocols
+***Master Branch:***  - includes a README describing communication protocols
 
 ***Individual Branches***
 
