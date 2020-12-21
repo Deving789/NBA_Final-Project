@@ -21,7 +21,7 @@ See also the [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/m
 
 #### 2. Github
 
-The team has a Github repository dedicated to the final project.
+The team has this Github repository dedicated to the final project.
 
 ***Master Branch:***  - includes a README describing communication protocols
 
