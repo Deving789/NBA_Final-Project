@@ -40,7 +40,7 @@ Team presents a provisional machine learning model that stands in for the final 
 
 ✓ Outputs label(s) for input data (create dataframe(s))
 
-The team also has [simple machine learning model](https://github.com/Deving789/NBA_Final-Project/blob/main/Resampling.ipynb)
+The team also has [simple machine learning model]
 
 -------
 #### 4. Database
@@ -49,7 +49,9 @@ Team presents a provisional database that stands in for the final database and a
 
 ✓ Sample data that mimics the expected final database structure or schema 
 
-✓ Draft machine learning module is connected to the provisional database
+✓ [Draft machine learning](https://github.com/Deving789/NBA_Final-Project/blob/main/Resampling.ipynb) module is connected to the provisional database
+
+![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/ERD_snapshot.PNG)
 
 
 
