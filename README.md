@@ -14,8 +14,15 @@ Our goal is to determine if there is any correlation between with our features(S
 
 - Do we need to add more data to get a high accuracy score when using a machine learning model?
 
+## Exploratory Data 
+
+
+## Data Analysis
+
 ## Resampling method -- first try with merged data sets shots_log and player_stats
 <img width="1320" alt="Initial resampling" src="https://user-images.githubusercontent.com/67278193/102673006-77f2d180-4160-11eb-87ce-c05a6edf0bbf.png">
+
+## Project dashboard
 
 
 ## Resources
