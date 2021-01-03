@@ -14,6 +14,11 @@ Our goal is to determine if there is any correlation between with our features(S
 
 - Do we need to add more data to get a high accuracy score when using a machine learning model?
 
+## Group communication protocols
+
+- Throughout this project the group has constantly made contact through the slack app. 
+- This includes sharing information that we find online, code & arranging meetings at least once a week.
+
 ## Exploratory Data 
 
 For the data portion of this project we used SQL, R & Python. The main library we used with python was pandas to import, clean and merge the data. With our merged data we are able to search for correlations to see what features had an impact on the shot result column. 
@@ -21,7 +26,7 @@ For the data portion of this project we used SQL, R & Python. The main library w
 
 ## Data Analysis
 
-There is no real correlation between defender height and a shot being made.
+There is no real correlation between defender height and a shot being made. What we can find is there seems to be a good coorelation between being the home team and having a higher shooting percentage.
 
 
 ## Resampling method -- first try with merged data sets shots_log and player_stats
