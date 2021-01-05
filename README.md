@@ -32,9 +32,15 @@ There is no real correlation between defender height and a shot being made. What
 ## Resampling method -- first try with merged data sets shots_log and player_stats
 <img width="1320" alt="Initial resampling" src="https://user-images.githubusercontent.com/67278193/102673006-77f2d180-4160-11eb-87ce-c05a6edf0bbf.png">
 
+For the machine learning part of the project we used the imbalanced-learn library with a sampling method(OverSampler). We chose the oversampling method because we figured this would be a good way to start. This may change once we complete the project. The benefits of the random oversampler is that it rebalances the distribution in an imbalanced set. Before beginning our process we had to split the data into train and test sets with our Y variable being the SHOT_RESULT column
+The benefits of using this model is that it makes our dataset more balanced
+
+
 ## Project dashboard
 
 Our project dashboard will be an HTML file that will show us will allow the end user to search a player by name so they can see every shot visualized on the half-court that the chosen player has. The HTML file will also show pictures of the analysis and machine learning portion that we did.
+
+## Summary 
 
 
 ## Resources
