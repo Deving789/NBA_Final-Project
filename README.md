@@ -51,7 +51,6 @@ Team presents a provisional database that stands in for the final database and a
 
 ✓ Sample data that mimics the expected final database structure or schema 
 
-![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/ERD_snapshot.PNG)
 ---------
 
 ## Iniatial Data Observations
