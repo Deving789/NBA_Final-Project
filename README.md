@@ -29,13 +29,10 @@ The team has this Github repository dedicated to the final project.
 -----
 #### 3. Machine Learning Model
 
-The team presents a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+Team members submit the code for the machine learning model. It's a work in progress and we are still deciding on what model is best to use.
 
-✓ Takes in data in from the provisional database (upload csv to python)
+![](https://github.com/Deving789/NBA_Final-Project/blob/main/Resampling.ipynb)
 
-![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/file_upload_to_python.PNG)
-
-✓ Outputs label(s) for input data (create dataframe(s))
 
 -------
 #### 4. Database
@@ -59,6 +56,10 @@ Team presents a provisional database that stands in for the final database and a
 `from sqlalchemy import create_engine`
 
 * If use SQL database, provide ERD with relationships
+
+#### 5. Dashboard
+
+The team has ppt presentation in draft mode.
 
 ---------
 
