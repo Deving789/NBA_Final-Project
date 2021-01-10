@@ -41,15 +41,15 @@ Team presents a provisional database that stands in for the final database and a
 * DB stores static data for use during the project;
 * DB interfaces with the project in some format (e.a database connects to the model);
 
-[](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_create_tables_load_data_success.PNG)
+![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_create_tables_load_data_success.PNG)
 
 * DB includes at least two (2) tables;
 
-[](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/NBA_DB_tables_listed_pandas_to_sql.PNG)
+![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/NBA_DB_tables_listed_pandas_to_sql.PNG)
 
 * DB includes at least one join using the database language (not including any joins in Pandas)
 
-[](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_tables_merge_on_id_success.PNG)
+![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_tables_merge_on_id_success.PNG)
 
 * DB includes at least one connection string (using SQLAlchemy or PyMongo)
 
