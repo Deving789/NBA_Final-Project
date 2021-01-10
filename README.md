@@ -50,7 +50,7 @@ Team presents a provisional database that stands in for the final database and a
 
 * DB includes at least one connection string (using SQLAlchemy)
 
-`from sqlalchemy import create_engine`
+*# Import Modules* `from sqlalchemy import create_engine`
 
 *#Create the database engine*
 `engine = create_engine(db_string)`
