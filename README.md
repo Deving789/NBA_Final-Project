@@ -51,7 +51,9 @@ Team presents a provisional database that stands in for the final database and a
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_tables_merge_on_id_success.PNG)
 
-* DB includes at least one connection string (using SQLAlchemy or PyMongo)
+* DB includes at least one connection string (using SQLAlchemy)
+
+`from sqlalchemy import create_engine`
 
 * If use SQL database, provide ERD with relationships
 
