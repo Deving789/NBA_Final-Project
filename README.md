@@ -32,8 +32,7 @@ Team members submit the code for the machine learning model. It's a work in prog
 [](https://github.com/Deving789/NBA_Final-Project/blob/main/Resampling.ipynb)
 
 -------
-#### [![4. Database](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/interactive_db.jpg)](https://github.com/Deving789/NBA_Final-Project/tree/triangle_database_mockup)
-
+#### 4. Database
 
 Team presents a provisional database that stands in for the final database and accomplishes the following:
 * DB stores static data for use during the project;
