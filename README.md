@@ -20,8 +20,9 @@ Our goal is to determine if there is any correlation between with our features(S
 ## Group communication protocols
 
 - Throughout this project the group has constantly made contact through the slack app. 
-- This includes sharing information that we find online, code & arranging meetings at least once a week.
-![](https://docs.google.com/spreadsheets/d/16IAsTHPIFMQN9qWJECUgzDWPtO0-ripUfGFg-LowBZY/edit#gid=1386834576&fvid=406798157) 
+- This includes sharing information that we find online, code & arranging meetings at least once a week.\
+
+[Team's checklist/tracker](https://docs.google.com/spreadsheets/d/16IAsTHPIFMQN9qWJECUgzDWPtO0-ripUfGFg-LowBZY/edit#gid=1386834576&fvid=406798157) 
 
 --------------------------
 
@@ -96,4 +97,5 @@ Data Source: [Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats-2014201
 **Brian** - contributor (circle)
 
 **Larysa** - contributor (triangle)
+
 
