@@ -1,4 +1,4 @@
-# NBA_Final-Project - Part 1
+# NBA_Final-Project - Part 2
 
 ## Project Overview
 
