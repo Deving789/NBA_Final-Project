@@ -69,4 +69,4 @@ Team presents a provisional database that stands in for the final database and a
 
 #### 5. Dashboard
 
-The team is working on creating a blueprint of the dashboard
+The team is working on creating a blueprint of the dashboard.
