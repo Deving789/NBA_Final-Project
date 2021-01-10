@@ -85,7 +85,7 @@ Data Source: [Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats-2014201
 
 ## PRESENTATION 
 
-[![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/61625b91c47e4a58d0b1d338a8fd0596.jpg)](https://docs.google.com/presentation/d/1yyX7UKPuBxpFafK9zPFxsAPh2NvwZ-T5X8ihhU3aKJA/edit?usp=sharing)
+[![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/click_here_blue.PNG)](https://docs.google.com/presentation/d/1yyX7UKPuBxpFafK9zPFxsAPh2NvwZ-T5X8ihhU3aKJA/edit?usp=sharing)
 
 
 
