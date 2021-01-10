@@ -53,9 +53,11 @@ Team presents a provisional database that stands in for the final database and a
 `from sqlalchemy import create_engine`
 
 `# Create the database engine `
+
 `engine = create_engine(db_string)`
 
 `#import 1st file - shot_logs`
+
 `shot_log.to_sql(name="1_nba_shot_logs", con=engine,  if_exists='replace')`
 
 * If use SQL database, provide ERD with relationships
