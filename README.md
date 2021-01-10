@@ -50,12 +50,10 @@ Team presents a provisional database that stands in for the final database and a
 
 * DB includes at least one connection string (using SQLAlchemy)
 
-*# Import Modules* `from sqlalchemy import create_engine`
+*# Import Modules and Create the Database Engine, the upload file(s)*
 
-*#Create the database engine*
+`from sqlalchemy import create_engine`
 `engine = create_engine(db_string)`
-
-*#import 1st file - shot_logs*
 `shot_log.to_sql(name="1_nba_shot_logs", con=engine,  if_exists='replace')`
 
 * If use SQL database, provide ERD with relationships
