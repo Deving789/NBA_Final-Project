@@ -21,9 +21,9 @@ For **deliverable 1** the team drafted the project, including the following: sel
 
 The team has this Github repository dedicated to the final project.
 
-***Master Branch:***  - includes data resources, main working files and README.
+***Master Branch*** - Includes data resources, main working files and README.
 
-***Individual Branches***Each team member has at least four commits from the duration of the first segment 
+***Individual Branches*** - Each team member has at least four commits from the duration of the first segment 
 
 -----
 #### 3. Machine Learning Model
