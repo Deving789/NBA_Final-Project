@@ -4,18 +4,14 @@
 
 Our team is working on analyzing the NBA data from 2014-15 season. The main dataset was posted on [Kaggle.com](https://www.kaggle.com/dansbecker/nba-shot-logs) and contains a record of every shot by every player in every game of the 2014-15 season.
 
+We have also added additional dataset showing historical data [1997-2020](https://data.world/sportsvizsunday/june-2020-nba-shots-1997-2019).
+
 ### Part 1 Submission Rubric
 
 #### 1. Presentation: 
-See also the [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/main). The team drafted the project, including the following:
+See also the [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/main). 
 
-✓ Selected topic
-
-✓ Provided reasons why we selected this topic 
-
-✓ Provided description of our source of data 
-
-✓ Provided questions we hope to answer with the data
+For deliverable 1 the team drafted the project, including the following: selected topic; provided reasons why we selected this topic; provided description of our source of data; provided questions we hope to answer with the data.
 
 --------
 
@@ -23,13 +19,9 @@ See also the [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/m
 
 The team has this Github repository dedicated to the final project.
 
-***Master Branch:***  - includes a README describing communication protocols
+***Master Branch:***  - includes data resources, main working files and README.
 
-***Individual Branches***
-
-✓ At least one branch for each team member
-
-✓ Each team member has at least four commits from the duration of the first segment 
+***Individual Branches***Each team member has at least four commits from the duration of the first segment 
 
 -----
 #### 3. Machine Learning Model
@@ -46,10 +38,22 @@ The team presents a provisional machine learning model that stands in for the fi
 #### 4. Database
 
 Team presents a provisional database that stands in for the final database and accomplishes the following:
+* DB stores static data for use during the project;
+* DB interfaces with the project in some format (e.a database connects to the model);
 
-✓ [Draft machine learning](https://github.com/Deving789/NBA_Final-Project/blob/main/Resampling.ipynb) module is connected to the provisional database
+[](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_create_tables_load_data_success.PNG)
 
-✓ Sample data that mimics the expected final database structure or schema 
+* DB includes at least two (2) tables;
+
+[](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/NBA_DB_tables_listed_pandas_to_sql.PNG)
+
+* DB includes at least one join using the database language (not including any joins in Pandas)
+
+[](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_tables_merge_on_id_success.PNG)
+
+* DB includes at least one connection string (using SQLAlchemy or PyMongo)
+
+* If use SQL database, provide ERD with relationships
 
 ---------
 
@@ -66,19 +70,6 @@ The team looked at the correlation between all columns we have in the dataset. M
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/shot_log_correlation_matrix.PNG)
 
-#### More fun stats:
-
-**Players' age stats (2014-15 season)**
-
-![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_age_check.PNG)
-
-**Players' height stats (2014-15 season)**
-
-![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_height_check.PNG)
-
-**Players' experience stats (2014-15 season)**
-
-![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_experience_check.PNG)
 
 
 
