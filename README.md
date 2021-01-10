@@ -46,7 +46,15 @@ The benefits of using this model is that it makes our dataset more balanced
 
 ## Database
 
-The team connected pandas with SQL and created databse called NBA_DB that can store the working data. More details in README ![here](https://github.com/Deving789/NBA_Final-Project/tree/triangle_database_mockup)
+The team connected pandas with SQL and created databse called NBA_DB that can store the working data. 
+
+![](https://github.com/Deving789/NBA_Final-Project/blob/main/Images/NBA_DB_tables_listed_pandas_to_sql.PNG)
+
+![](https://github.com/Deving789/NBA_Final-Project/blob/main/Images/pandas_sql_table1_shot_logs_check_success.PNG)
+
+
+More details in README [here](https://github.com/Deving789/NBA_Final-Project/tree/triangle_database_mockup)
+
 
 
 ----------------------------
