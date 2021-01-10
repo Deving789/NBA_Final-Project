@@ -36,7 +36,7 @@ Team members submit the code for the machine learning model. It's a work in prog
 
 Team presents a provisional database that stands in for the final database and accomplishes the following:
 * DB stores static data for use during the project;
-* DB interfaces with the project in some format (e.a database connects to the model);
+* DB interfaces with the project in some format (e.a [database connects to the model](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/NBA_project_SQL_connection.ipynb));
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_create_tables_load_data_success.PNG)
 
