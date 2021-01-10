@@ -56,11 +56,14 @@ Team presents a provisional database that stands in for the final database and a
 
 * If use SQL database, provide ERD with relationships
 
+
+**IMPORTANT** to note that some minor alreations were needed for some tables - to update column names to make them more "sql-friendly".
+
+![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_table2_location_data_rename_columns_success.PNG)
+
+------------------
+
 #### 5. Dashboard
-
-The team has ppt presentation in draft mode.
-
-#### 6. Dashboard
 
 The team is working on creating a blueprint of the dashboard
 
