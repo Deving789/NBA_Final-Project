@@ -52,11 +52,9 @@ Team presents a provisional database that stands in for the final database and a
 
 *# Import Modules and Create the Database Engine, the upload file(s)*
 
-`from sqlalchemy import create_engine
-
-engine = create_engine(db_string)
-
-shot_log.to_sql(name="1_nba_shot_logs", con=engine,  if_exists='replace')`
+   `from sqlalchemy import create_engine`\
+   `engine = create_engine(db_string)` \
+   `shot_log.to_sql(name="1_nba_shot_logs", con=engine,  if_exists='replace')`
 
 * If use SQL database, provide ERD with relationships
 
