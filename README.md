@@ -6,7 +6,7 @@ Our team is working on analyzing the NBA data from 2014-15 season. The main data
 
 We have also added additional dataset showing historical data [1997-2020](https://data.world/sportsvizsunday/june-2020-nba-shots-1997-2019).
 
-### Part 1 Submission Rubric
+### Part 2 Submission Rubric
 
 #### 1. Presentation: 
 See also the [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/main). 
@@ -69,24 +69,6 @@ The team is working on creating a blueprint of the dashboard
 
 
 
-
-
-
-
----------
-
-## Iniatial Data Observations
-
-The team looked at the correlation between all columns we have in the dataset. More details in the [main branch](https://github.com/Deving789/NBA_Final-Project). 
-
-1. [players_stats.csv](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Resources/players_stats.csv)
-
-![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/players_stats_correlation_matrix.PNG)
--------
-
-2. [shot_log.csv](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Resources/shot_logs.csv)
-
-![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/shot_log_correlation_matrix.PNG)
 
 
 
