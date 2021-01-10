@@ -13,6 +13,9 @@ See also the [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/m
 
 For deliverable 1 the team drafted the project, including the following: selected topic; provided reasons why we selected this topic; provided description of our source of data; provided questions we hope to answer with the data.
 
+For deliverable 2 the team also included [PPT presentation](https://docs.google.com/presentation/d/1yyX7UKPuBxpFafK9zPFxsAPh2NvwZ-T5X8ihhU3aKJA/edit#slide=id.p1) in google sheets (work in progress)
+
+
 --------
 
 #### 2. Github
