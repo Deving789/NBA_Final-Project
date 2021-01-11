@@ -21,11 +21,10 @@ Our goal is to determine if there is any correlation between with our features(S
 
 [Team's checklist/tracker](https://docs.google.com/spreadsheets/d/16IAsTHPIFMQN9qWJECUgzDWPtO0-ripUfGFg-LowBZY/edit#gid=1386834576&fvid=406798157) 
 
-#### Team Responsibilties
-
-**Devin** - leader\
-**Brian** - contributor (circle)\
-**Larysa** - contributor (triangle)
+**Team Responsibilties**\
+***Devin*** - project leader\
+***Brian*** - contributor (circle)\
+***Larysa*** - contributor (triangle)
 
 --------------------------
 
@@ -57,7 +56,7 @@ The team connected pandas with SQL and created databse called NBA_DB that can st
 ![](https://github.com/Deving789/NBA_Final-Project/blob/main/Images/pandas_sql_table1_shot_logs_check_success.PNG)
 
 
-**For more details click below** 
+**More details** 
 
 [![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/click_small.PNG)](https://github.com/Deving789/NBA_Final-Project/tree/triangle_database_mockup)
 
@@ -80,9 +79,7 @@ Dataset that with 2014-15 NBA shot log data and player stats.
 Data Source: [Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats-20142015)
 
 - [shot_logs.csv](https://github.com/Deving789/NBA_Final-Project/blob/main/shot_logs.csv)
-
 - [players_stats.csv](https://github.com/Deving789/NBA_Final-Project/blob/main/players_stats.csv)
-
 - [nba_team_advanced_stats.csv](https://github.com/Deving789/NBA_Final-Project/blob/main/nba_team_advanced_stats.csv)
 
 ----------
