@@ -9,7 +9,7 @@ Our team is working on analyzing the NBA data from 2014-15 season. The main data
 #### 1. Presentation: 
 See also the [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/main). 
 
-For **deliverable 1** the team drafted the project, including the following: selected topic; provided reasons why we selected this topic; provided description of our source of data; provided questions we hope to answer with the data. For **deliverable 2** the team also included draft of the presentation (work in progress).
+For **deliverable 1** the team drafted the project, including the following: selected topic; provided reasons why we selected this topic; provided description of our source of data; provided questions we hope to answer with the data. For **deliverable 2** the team also included machine learning model and draft of the presentation (work in progress).
 
 [![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/google_slides_symbol.PNG)](https://docs.google.com/presentation/d/1yyX7UKPuBxpFafK9zPFxsAPh2NvwZ-T5X8ihhU3aKJA/edit#slide=id.p1) 
 
