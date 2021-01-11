@@ -49,7 +49,7 @@ Team presents a provisional database that stands in for the final database and a
 
 * DB includes at least one join using the database language (not including any joins in Pandas)
 
-![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_tables_merge_on_id_success.PNG)
+[](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_tables_merge_on_id_success.PNG)
 
 * DB includes at least one connection string (using SQLAlchemy)
 
@@ -61,6 +61,7 @@ Team presents a provisional database that stands in for the final database and a
 
 * If use SQL database, provide ERD with relationships
 
+![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/ERD_tables_nba.PNG)
 -----------
 
 **IMPORTANT** to note that some minor alreations were needed for some tables. This was done to update column names to make them more "sql-friendly", if working in pgAdmin.
