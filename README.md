@@ -54,9 +54,9 @@ The team connected pandas with SQL and created databse called NBA_DB that can st
 ![](https://github.com/Deving789/NBA_Final-Project/blob/main/Images/pandas_sql_table1_shot_logs_check_success.PNG)
 
 
-**More details in README [here](https://github.com/Deving789/NBA_Final-Project/tree/triangle_database_mockup)**
+**For more details click below** 
 
-
+[![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/click_small.PNG)](https://github.com/Deving789/NBA_Final-Project/tree/triangle_database_mockup)
 
 ----------------------------
 
