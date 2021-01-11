@@ -1,12 +1,10 @@
-# NBA_Final-Project - Part 2
+# NBA_Final-Project - Deliverable 2
 
 ## Project Overview
 
-Our team is working on analyzing the NBA data from 2014-15 season. The main dataset was posted on [Kaggle.com](https://www.kaggle.com/dansbecker/nba-shot-logs) and contains a record of every shot by every player in every game of the 2014-15 season.
+Our team is working on analyzing the NBA data from 2014-15 season. The main dataset was posted on [Kaggle.com](https://www.kaggle.com/dansbecker/nba-shot-logs) and contains a record of every shot by every player in every game of the 2014-15 season. We have also added additional dataset showing historical data [1997-2020](https://data.world/sportsvizsunday/june-2020-nba-shots-1997-2019).
 
-We have also added additional dataset showing historical data [1997-2020](https://data.world/sportsvizsunday/june-2020-nba-shots-1997-2019).
-
-### Part 2 Submission Rubric
+### Deliverable 2 Submission Rubric
 
 #### 1. Presentation: 
 See also the [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/main). 
@@ -21,9 +19,8 @@ For **deliverable 1** the team drafted the project, including the following: sel
 
 The team has this Github repository dedicated to the final project.
 
-***Master Branch*** - Includes data resources, main working files and README.
-
-***Individual Branches*** - Each team member has at least four commits from the duration of the first segment 
+* ***Master Branch*** - Includes data resources, main working files and README.
+* ***Individual Branches*** - Each team member has at least four commits from the duration of the first segment 
 
 -----
 #### 3. Machine Learning Model
