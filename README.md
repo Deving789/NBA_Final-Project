@@ -41,7 +41,7 @@ Team presents a provisional database that stands in for the final database and a
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_create_tables_load_data_success.PNG)
 
-![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_check_in_jupyter.PNG)
+![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_check_jupyter.PNG)
 
 * DB includes at least two (2) tables;
 
