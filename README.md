@@ -63,7 +63,7 @@ Team presents a provisional database that stands in for the final database and a
 
 -----------
 
-**IMPORTANT** to note that some minor alreations were needed for some tables. This was done to update column names to make them more "sql-friendly".
+**IMPORTANT** to note that some minor alreations were needed for some tables. This was done to update column names to make them more "sql-friendly", if working in pgAdmin.
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/pandas_sql_table2_location_data_rename_columns_success.PNG)
 
