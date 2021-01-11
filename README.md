@@ -27,7 +27,7 @@ The team has this Github repository dedicated to the final project.
 
 Team members submit the code for the machine learning model. It's a work in progress and we are still deciding on what model is best to use.
 
-[](https://github.com/Deving789/NBA_Final-Project/blob/main/Resampling.ipynb)
+See also the [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/main). 
 
 -------
 #### 4. Database
@@ -70,3 +70,4 @@ Team presents a provisional database that stands in for the final database and a
 #### 5. Dashboard
 
 The team is working on creating a blueprint of the dashboard.
+See also the [Main branch](https://github.com/Deving789/NBA_Final-Project/tree/main). 
