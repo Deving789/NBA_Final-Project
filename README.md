@@ -8,11 +8,8 @@ Our goal is to determine if there is any correlation between with our features(S
 
 ## Questions we want to answer
 - Is there strong correlations between defender height and a shot being missed?
-
 - Is there a strong correlation of a player making a basket if the closest defender is more than 6 feet away from the shooter?
-
 - Does being on the home team give star players a better shooting percentage?
-
 - Do we need to add more data to get a high accuracy score when using a machine learning model?
 
 ---------------------------
@@ -20,9 +17,15 @@ Our goal is to determine if there is any correlation between with our features(S
 ## Group communication protocols
 
 - Throughout this project the group has constantly made contact through the slack app. 
-- This includes sharing information that we find online, code & arranging meetings at least once a week.\
+- This includes sharing information that we find online, code & arranging meetings at least once a week.
 
 [Team's checklist/tracker](https://docs.google.com/spreadsheets/d/16IAsTHPIFMQN9qWJECUgzDWPtO0-ripUfGFg-LowBZY/edit#gid=1386834576&fvid=406798157) 
+
+#### Team Responsibilties
+
+**Devin** - leader\
+**Brian** - contributor (circle)\
+**Larysa** - contributor (triangle)
 
 --------------------------
 
@@ -89,13 +92,5 @@ Data Source: [Kaggle](https://www.kaggle.com/drgilermo/nba-players-stats-2014201
 [![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/click_small.PNG)](https://docs.google.com/presentation/d/1yyX7UKPuBxpFafK9zPFxsAPh2NvwZ-T5X8ihhU3aKJA/edit?usp=sharing)
 
 
-
-## Team Responsibilties
-
-**Devin** - leader
-
-**Brian** - contributor (circle)
-
-**Larysa** - contributor (triangle)
 
 
