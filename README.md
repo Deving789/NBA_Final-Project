@@ -66,10 +66,6 @@ The team connected pandas with SQL and created databse called NBA_DB that can st
 
 Our project dashboard will be an HTML file that will show us will allow the end user to search a player by name so they can see every shot visualized on the half-court that the chosen player has. The HTML file will also show pictures of the analysis and machine learning portion that we did.
 
------------------------------
-
-## Summary 
-
 ----------------------------
 
 ## Resources
