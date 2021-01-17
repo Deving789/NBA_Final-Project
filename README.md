@@ -49,6 +49,10 @@ There is no real correlation between defender height and a shot being made. What
 For the machine learning part of the project we used the imbalanced-learn library with a sampling method(OverSampler). We chose the oversampling method because we figured this would be a good way to start. This may change once we complete the project. The benefits of the random oversampler is that it rebalances the distribution in an imbalanced set. Before beginning our process we had to split the data into train and test sets with our Y variable being the SHOT_RESULT column
 The benefits of using this model is that it makes our dataset more balanced
 
+## Easy Ensemble Classifier with Forest Classifier
+
+For the second try we decided to use this method to test our data set with machine learning. First we split our data into train and test sets before chosing our balanced random forest classisifer model. Although this model is used typically for an imbalanced variable we thought that it could possibly increase our accuracy score so we thought it was neccessary to use it. Unfortunately there was not an increase in the accuracy score, the only significant correlation to our shot_result column was the CLOSE_DEF_DIST and 3 point attempts. 
+
 ----------------------------
 
 ## Database
@@ -68,12 +72,13 @@ The team connected pandas with SQL and created databse called NBA_DB that can st
 
 ## Project dashboard
 
-
+https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/click_small.PNG)](https://deving789.github.io/NBA_Final-Project/
 
 ----------------------------
 
 ## Conclusion
 
+The result of a players shot is extremely tough to predict -- overall throughout NBA history the average field goal percentage has always been below 50%. Even if a player has a wide open bucket it is not a gurantee that they will make it. Our conclusion from the 2014-15 season is for a team to get their best results they need to create as many fast break points as they can get and take as many wide open 3 point looks as possible. The Warriors forever broke the mold of the average superstar team by running, spreading the floor and shooting a high volume of 3 pointers to maxmize their possesions, points in stride creating wins and a good path to a championship season. 
 
 ----------------------------
 
