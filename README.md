@@ -72,7 +72,7 @@ The team connected pandas with SQL and created databse called NBA_DB that can st
 
 ## Project dashboard
 
-https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/click_small.PNG)](https://deving789.github.io/NBA_Final-Project/
+
 
 ----------------------------
 
