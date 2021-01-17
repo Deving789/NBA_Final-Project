@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-Our goal is to determine if there is any correlation between with our features(SHOT_DIST,CLOSE_DEF_DIST,Height(CD)..)selected and if the player is successful or not making the basket(SHOT_RESULT). If there is a correlation we would like to see what other features from different data not in our current set have a strong correlation to the shot_result output such as advanced player metrics. We selected this topic because we want to see what the potenial outcomes are based on the data we have chosen. Furthermore, we feel that based on this data we can predict how certain players will perform by the spacing they create from the nearest defender.
+Our goal is to determine if there is any correlation between with our features(SHOT_DIST,CLOSE_DEF_DIST,Height(CD)..)selected and if the player is successful or not making the basket(SHOT_RESULT). If there is a correlation we would like to see what other features from different data not in our current set have a strong correlation to the shot_result output such as advanced player metrics. We selected this topic because we want to see what the potential outcomes are based on the data we have chosen. Furthermore, we feel that based on this data we can predict how certain players will perform by the spacing they create from the nearest defender.
 
 -----------------------------
 
@@ -30,11 +30,15 @@ Our goal is to determine if there is any correlation between with our features(S
 
 ## Exploratory Data 
 
-For the data portion of this project we used SQL, R & Python. The main library we used with python was pandas to import, clean and merge the data. With our merged data we are able to search for correlations to see what features had an impact on the shot result column. 
+For the data portion of this project we used SQL, R & Python. If you take a look at our project_x file, what can be seen is our merging of the shots_log and players_stats data sets. Why did we do this? The shots log data set only shows the height, weight of the shooter. That is not enough for the reader to see the whole story. After our merge we are able to see all of the physical information about the defender(Height, Weight etc.)***(show merge) 
+
+The main library we used with python was pandas to import, clean and merge the data. With our merged data we are able to search for correlations to see what features had an impact on the shot result column. After our merge we decided to look at team statistics such as PACE, offensive efficiency and many other metrics.
 
 --------------------------------
 
 ## Data Analysis
+
+** Corr graph(inserted here)
 
 There is no real correlation between defender height and a shot being made. What we can find is there seems to be a good coorelation between being the home team and having a higher shooting percentage.
 
@@ -64,7 +68,12 @@ The team connected pandas with SQL and created databse called NBA_DB that can st
 
 ## Project dashboard
 
-Our project dashboard will be an HTML file that will show us will allow the end user to search a player by name so they can see every shot visualized on the half-court that the chosen player has. The HTML file will also show pictures of the analysis and machine learning portion that we did.
+
+
+----------------------------
+
+## Conclusion
+
 
 ----------------------------
 
