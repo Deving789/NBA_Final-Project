@@ -12,3 +12,10 @@ We ran multiple machine learning models, but the most accuracy we were able to a
 
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/corr_matrix_merge.png)
+
+![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/Shot%20Distance%20-%20Close%20Defender%20Distance.png)
+
+
+![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/Shot%20Distance%20by%20Range.png)
+
+
