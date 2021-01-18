@@ -9,3 +9,6 @@ Based on our final data, we do not see much correlation between shot result and 
 We ran multiple machine learning models, but the most accuracy we were able to achieve with the Easy Ensemble.
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/3.easy_ensemble_mlm.PNG)
+
+
+![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/corr_matrix_merge.png)
