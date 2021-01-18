@@ -20,9 +20,9 @@ correlation matrix, and graphs (for visual comprehencion).
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/Shot%20Distance%20by%20Range.png)
 
+------
 
-
-As a result, we ran multiple machine learning models, but the most accuracy we were able to achieve with the Easy Ensemble.
+As a result, we ran multiple machine learning models, but the most accuracy we were able to achieve with the Easy Ensemble. We received 60% accuracy level and given the data we have, this was a the best so far.
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/3.easy_ensemble_mlm.PNG)
 
