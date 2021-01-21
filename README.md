@@ -28,6 +28,10 @@ Our goal is to determine if there is any correlation between our features(SHOT_D
 
 --------------------------
 
+## Getting started
+
+We begun the project by importing the shots_log.csv and the players_stats.csv into our jupyter notebook(project_x). We noticed that the MATCHUP column had data that would be tough to sort because it was not in the correct format. In order to change this we used to methods to clean up the column .str.split and .to_datetime. Once the data was in the correct format we were able to complete our first merge between the two csv's.
+
 ## Exploratory Data 
 
 For the data portion of this project we used SQL, R & Python. If you take a look at our project_x file, what can be seen is our merging of the shots_log and players_stats data sets. Why did we do this? The shots log data set only shows the height, weight of the shooter. That is not enough for the reader to see the whole story. After our merge we are able to see all of the physical information about the defender(Height, Weight etc.)***(show merge) 
@@ -72,7 +76,7 @@ The team connected pandas with SQL and created databse called NBA_DB that can st
 
 ## Project dashboard
 
-
+-- Using HTML we created a website for the end user to look at. On this HTML page you can see all of our groups names, the technologies we used, a carousel of images(including from our project) and even a section where you can look up any player or team from the 2014-15 season. The search section even allows you to download your searched critera via JSON or Excel. To see our website please scroll down to the bottom of this readme file.
 
 ----------------------------
 
