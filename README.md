@@ -32,6 +32,8 @@ Our goal is to determine if there is any correlation between our features(SHOT_D
 
 We begun the project by importing the shots_log.csv and the players_stats.csv into our jupyter notebook(project_x). We noticed that the MATCHUP column had data that would be tough to sort because it was not in the correct format. In order to change this we used to methods to clean up the column .str.split and .to_datetime. Once the data was in the correct format we were able to complete our first merge between the two csv's.
 
+<img width="1365" alt="Screen Shot 2021-01-19 at 9 48 12 AM" src="https://user-images.githubusercontent.com/67278193/105397026-8cf2d280-5bee-11eb-84fb-ab50341f9abe.png">
+
 ## Exploratory Data 
 
 For the data portion of this project we used SQL, R & Python. If you take a look at our project_x file, what can be seen is our merging of the shots_log and players_stats data sets. Why did we do this? The shots log data set only shows the height, weight of the shooter. That is not enough for the reader to see the whole story. After our merge we are able to see all of the physical information about the defender(Height, Weight etc.)***(show merge) 
@@ -42,7 +44,7 @@ The main library we used with python was pandas to import, clean and merge the d
 
 ## Data Analysis
 
-** Corr graph(inserted here)
+<img width="963" alt="Screen Shot 2021-01-21 at 1 41 42 PM" src="https://user-images.githubusercontent.com/67278193/105396986-819fa700-5bee-11eb-80be-459e926d1ad7.png">
 
 There is no real correlation between defender height and a shot being made. What we can find is there seems to be a good coorelation between being the home team and having a higher shooting percentage.
 
