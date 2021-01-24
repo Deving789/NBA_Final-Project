@@ -59,6 +59,11 @@ The benefits of using this model is that it makes our dataset more balanced
 
 For the second try we decided to use this method to test our data set with machine learning. First we split our data into train and test sets before chosing our balanced random forest classisifer model. Although this model is used typically for an imbalanced variable we thought that it could possibly increase our accuracy score so we thought it was neccessary to use it. Unfortunately there was not an increase in the accuracy score, the only significant correlation to our shot_result column was the CLOSE_DEF_DIST and 3 point attempts. 
 
+
+**For more information click below**
+
+[![](https://github.com/Deving789/NBA_Final-Project/blob/triangle_database_mockup/Images/click_small.PNG)](https://github.com/Deving789/NBA_Final-Project/tree/Circle_MachineLearning)
+
 ----------------------------
 
 ## Database
