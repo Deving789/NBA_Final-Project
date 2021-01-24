@@ -50,9 +50,13 @@ We were also able to get the exact the same data for the prior 2013-14 NBA seaso
 
 #### Conclusion
 
-While we weren't able to get the answer we expected and what features were actually the most important, we saw the strongest correlation between the shot result success and the actual shot distance. This also doen't mean that the data we had was completely bad or imballanced. Based on some of the correlations we saw, it could be helpful in answering some other questions (ea. distance related). 
+While we weren't able to get the answer we expected and what features were actually the most important, we saw the strongest correlation between the shot result success and the actual shot distance. This also doen't mean that the data we had was completely bad or imballanced. Based on some of the correlations we saw, it could be helpful in answering some other questions (based on our observations, it would be distance related). 
 
-A lot of NBA data and metrics is proprietory and we believe there is more KPIs that could help boosting accuracy of our predicting model. Ideally we would like to collect as much data as possible. 
+Unfortunately one of the downsides of using any freely available data, is its integrity and reliability. A lot of NBA data and metrics is proprietory and we believe there is more KPIs that could help boosting accuracy of our predicting model. Ideally we would like to collect as much data as possible and run our analysis again.
+
+For now, long live NBA! It was fun! 
+
+
 
 
 
