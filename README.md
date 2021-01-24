@@ -26,5 +26,16 @@ As a result, we ran multiple machine learning models, but the most accuracy we w
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/3.easy_ensemble_mlm.PNG)
 
+------
+
+**Model with adding more data showing player's exact location on court**
+
+We were able to add new features showing palyer's exact loaction on court during shit attempt. It boosted our accuracy to 65%.
+
+![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/new_model_location_64accuracy.PNG)
+
+
+**Looking at different season**
+
 
 
