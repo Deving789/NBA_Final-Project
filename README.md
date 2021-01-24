@@ -35,6 +35,8 @@ We were able to add new features showing palyer's exact location on court during
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/new_model_location_64accuracy.PNG)
 
+--------
+
 
 **Looking at the different season**
 
@@ -44,10 +46,13 @@ We were also able to get the exact the same data for the prior 2013-14 NBA seaso
 
 ***Close defender's distance per our data and model had only about 11% impact/importance***
 
+---------
 
 #### Conclusion
 
-While we weren't able to get the answer we expected and what features were actually the most important, we saw the strongest correlation between the shot result success and the actual show distance. 
+While we weren't able to get the answer we expected and what features were actually the most important, we saw the strongest correlation between the shot result success and the actual shot distance. This also doen't mean that the data we had was completely bad or imballanced. Based on some of the correlations we saw, it could be helpful in answering some other questions (ea. distance related). 
+
+A lot of NBA data and metrics is proprietory and we believe there is more KPIs that could help boosting accuracy of our predicting model. Ideally we would like to collect as much data as possible. 
 
 
 
