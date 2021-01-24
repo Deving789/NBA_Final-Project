@@ -46,16 +46,17 @@ The main library we used with python was pandas to import, clean and merge the d
 
 <img width="963" alt="Screen Shot 2021-01-21 at 1 41 42 PM" src="https://user-images.githubusercontent.com/67278193/105396986-819fa700-5bee-11eb-80be-459e926d1ad7.png">
 
-There is no real correlation between defender height and a shot being made. What we can find is there seems to be a good coorelation between being the home team and having a higher shooting percentage.
+Per our observations, there is no real correlation between defender height and a shot being made. What we can find is there seems to be a good coorelation between being the home team and having a higher shooting percentage.
 
 
 ### Resampling method -- first try with merged data sets shots_log and player_stats
+
 <img width="1320" alt="Initial resampling" src="https://user-images.githubusercontent.com/67278193/102673006-77f2d180-4160-11eb-87ce-c05a6edf0bbf.png">
 
 For the machine learning part of the project we used the imbalanced-learn library with a sampling method(OverSampler). We chose the oversampling method because we figured this would be a good way to start. This may change once we complete the project. The benefits of the random oversampler is that it rebalances the distribution in an imbalanced set. Before beginning our process we had to split the data into train and test sets with our Y variable being the SHOT_RESULT column
 The benefits of using this model is that it makes our dataset more balanced
 
-## Easy Ensemble Classifier with Forest Classifier
+### Easy Ensemble Classifier with Forest Classifier
 
 For the second try we decided to use this method to test our data set with machine learning. First we split our data into train and test sets before chosing our balanced random forest classisifer model. Although this model is used typically for an imbalanced variable we thought that it could possibly increase our accuracy score so we thought it was neccessary to use it. Unfortunately there was not an increase in the accuracy score, the only significant correlation to our shot_result column was the CLOSE_DEF_DIST and 3 point attempts. 
 
