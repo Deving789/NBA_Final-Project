@@ -54,7 +54,7 @@ While we weren't able to get the answer we expected and what features were actua
 
 Unfortunately one of the downsides of using any freely available data, is its reliability and integrity. A lot of NBA data and metrics is proprietory and we believe there is more KPIs that could help boosting accuracy of our predicting model. Ideally we would like to collect as much data as possible and run our analysis again.
 
-![](https://cdn.mos.cms.futurecdn.net/DFpakzWmfkhQsuU3N6hnd3.jpg)
+![](https://wjla.com/resources/media2/16x9/full/1015/center/80/2b90e5c3-705f-4712-b74e-4b11879aee6a-large16x9_kobenba.jpg)
 
 
 
