@@ -32,6 +32,7 @@ As a result, we ran multiple machine learning models, but the most accuracy we w
 
 We were able to add new features showing palyer's exact location on court during shit attempt. It boosted our accuracy to 65%.
 
+
 ![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/new_model_location_64accuracy.PNG)
 
 
@@ -40,6 +41,13 @@ We were able to add new features showing palyer's exact location on court during
 We were also able to get the exact the same data for the prior 2013-14 NBA season and it showed the same result and features as the most important.
 
 ![](https://github.com/Deving789/NBA_Final-Project/blob/Circle_MachineLearning/Images/new_model_location_64accuracy_1314season.PNG)
+
+***Close defender's distance per our data and model had only about 11% impact/importance***
+
+
+#### Conclusion
+
+While we weren't able to get the answer we expected and what features were actually the most important, we saw the strongest correlation between the shot result success and the actual show distance. 
 
 
 
