@@ -42,7 +42,7 @@ The main library we used with python was pandas to import, clean and merge the d
 
 --------------------------------
 
-## Data Analysis
+## Data Analysis & Machine Learning
 
 <img width="963" alt="Screen Shot 2021-01-21 at 1 41 42 PM" src="https://user-images.githubusercontent.com/67278193/105396986-819fa700-5bee-11eb-80be-459e926d1ad7.png">
 
