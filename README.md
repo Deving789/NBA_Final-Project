@@ -84,7 +84,7 @@ The team connected pandas with SQL and created databse called NBA_DB that can st
 
 ## Project dashboard
 
--- Using HTML we created a website for the end user to look at. On this HTML page you can see all of our groups names, the technologies we used, a carousel of images(including from our project) and even a section where you can look up any player or team from the 2014-15 season. The search section even allows you to download your searched critera via JSON or Excel. To see our website please scroll down to the bottom of this readme file.
+-- Using HTML we created a website for the end user to look at. On this HTML page you can see the names of our group members, the technologies we used, a carousel of images(including from our project) and even a section where you can look up any player or team from the 2014-15 season. The search section even allows you to download your searched critera via JSON or Excel. To see our website please scroll down to the bottom of this readme file.
 
 ----------------------------
 
