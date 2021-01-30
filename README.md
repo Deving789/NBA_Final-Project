@@ -90,7 +90,7 @@ The team connected pandas with SQL and created databse called NBA_DB that can st
 
 ## Conclusion
 
-The result of a players shot is extremely tough to predict -- overall throughout NBA history the average field goal percentage has always been below 50%. Even if a player has a wide open bucket it is not a gurantee that they will make it. Our conclusion from the 2014-15 season is for a team to get their best results they need to create as many fast break points as they can get and take as many wide open 3 point looks as possible. The Warriors forever broke the mold of the average superstar team by running, spreading the floor and shooting a high volume of 3 pointers to maxmize their possesions, points in stride creating wins and a good path to a championship season. 
+The result of a players shot is extremely tough to predict -- overall throughout NBA history the average field goal percentage has always been below 50%. Even if a player has a wide open bucket it is not a gurantee that they will make it. Our conclusion from the 2014-15 season is for a team to get their best results they need to create as many fast break points as they can get and take as many wide open 3 point looks as possible. The Warriors forever broke the mold of the average superstar team by running, spreading the floor and shooting a high volume of 3 pointers to maxmize their number of possesions, scoring efficiency resulting in points that created more wins and a path to a championship season. 
 
 ----------------------------
 
