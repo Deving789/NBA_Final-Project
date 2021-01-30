@@ -30,7 +30,7 @@ Our goal is to determine if there is any correlation between our features(SHOT_D
 
 ## Getting started
 
-We begun the project by importing the shots_log.csv and the players_stats.csv into our jupyter notebook(project_x). We noticed that the MATCHUP column had data that would be tough to sort because it was not in the correct format. In order to change this we used to methods to clean up the column .str.split and .to_datetime. Once the data was in the correct format we were able to complete our first merge between the two csv's.
+We began the project by importing the shots_log.csv and the players_stats.csv into our jupyter notebook(project_x). We noticed that the MATCHUP column had data that would be tough to sort because it was not in the correct format. In order to change this we used to methods to clean up the column .str.split and .to_datetime. Once the data was in the correct format we were able to complete our first merge between the two csv's.
 
 <img width="1365" alt="Screen Shot 2021-01-19 at 9 48 12 AM" src="https://user-images.githubusercontent.com/67278193/105397026-8cf2d280-5bee-11eb-84fb-ab50341f9abe.png">
 
